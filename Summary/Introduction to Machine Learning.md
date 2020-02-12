@@ -1,8 +1,8 @@
-#Introduction to Machine Learning
+# Introduction to Machine Learning
 
 # Module 1: Problem Framing
 
-###Learning Objectives
+### Learning Objectives
 *Recognize the practical benefits of mastering machine learning
 *Understand the philosophy behind machine learning
 
