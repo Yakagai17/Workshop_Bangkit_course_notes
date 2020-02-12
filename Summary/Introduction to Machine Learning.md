@@ -9,6 +9,6 @@
 * 1st phase machine learning
 ![1st phase machine learning](https://github.com/Yakagai17/Workshop_Bangkit_course_notes/blob/master/asset/problem%20framing%201.JPG "1st phase machine learning")
 
-*Basic Term "Machine Learning" </br>
+<b>*Basic Term "Machine Learning"</b> </br>
 ML is the process of training a piece of software, called a model, to make useful predictions using a data set
   e.g. : the system predicts that a user will like a certain video, so the system recommends that video to the user.
